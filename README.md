@@ -5,7 +5,8 @@ You need to log in to this [site](https://my.telegram.org/auth) and log in your 
 and open the file named config.py and edit the file. In the config.py file. keep your data.
 
 For example.
-
+``
 api_id = 2961004
 api_hash = "982547j;46932g2jk579567hf965hl34"
 WEAHTER_KEY = "3456liglgl3465hlg34lg6k3456k3k4j"
+``
